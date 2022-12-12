@@ -1,2 +1,2 @@
-# vue-study-my
-学习vue及周边生态
+# vue-study-resource
+Vue全家桶源码实现
